@@ -17,7 +17,7 @@
         <ver.version>${project.version}</ver.version>
         <commons-codec-version>1.8</commons-codec-version>
         <sqljdbc-version>6.2.1.jre7</sqljdbc-version>
-        <mysql-connector-version>5.1.38</mysql-connector-version>
+        <mysql-connector-version>8.0.16</mysql-connector-version>
         <oracle-jdbc-thin-version>10.2.0.4</oracle-jdbc-thin-version>
         <tomcat-jdbc-version>7.0.52</tomcat-jdbc-version>
         <dal-common-version>1.1.4</dal-common-version>
